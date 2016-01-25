@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 4G kit blog</title>
+    <link>http://4GkitIoT.github.io/post/</link>
+    <description>Recent content in Posts on 4G kit blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2015 15:38:41 +0100</lastBuildDate>
+    <atom:link href="http://4GkitIoT.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>News 12/23/2015</title>
+      <link>http://4gkitiot.github.io/post/News_12_23_2015/</link>
+      <pubDate>Wed, 23 Dec 2015 15:38:41 +0100</pubDate>
+      
+      <guid>http://4gkitiot.github.io/post/News_12_23_2015/</guid>
+      <description>&lt;p&gt;Dear partners,&lt;/p&gt;
+
+&lt;p&gt;As our 4GKit is growing up another year (with you and for you) we want to thank you for all the effort you have been making for this experimentation to be a success. In the 4GKit team we think of you so we have not forgotten your Christmas presents :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flexible DataSync : Your kit can now be linked to Webcom (&lt;a href=&#34;https://4gkit.orange.com/apis&#34;&gt;Flexible DataSync API&lt;/a&gt;) allowing you to get notified when changes occur on your 4G connected object, you can also create your own web application to control your objects from Internet ( Thereby solving the famous NAT issue many of you were experiencing).&lt;/li&gt;
+&lt;li&gt;New Tutorials for using both &lt;a href=&#34;https://4gkit.orange.com/help/tutorials/DHT11/&#34;&gt;digital&lt;/a&gt; and &lt;a href=&#34;https://4gkit.orange.com/help/tutorials/analog_sensors/&#34;&gt;analog&lt;/a&gt; sensors : new eyes and ears for your 4GKit.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://4gkit.orange.com/file_management&#34;&gt;file management&lt;/a&gt; tool become more dynamic : you can edit, download, refresh and remove your files without touching your 4GKit.&lt;/li&gt;
+&lt;li&gt;A new, more powerful &lt;a href=&#34;https://4gkit.orange.com/console&#34;&gt;console&lt;/a&gt; with completion feature to make your interaction with your 4GKit even easier.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To make the best of these new features don’t forget to update your 4GKit or download the newest image.&lt;/p&gt;
+
+&lt;p&gt;Merry Christmas and happy new hacking year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The 4GKit team&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News 10/28/2015</title>
+      <link>http://4gkitiot.github.io/post/News_10_28_2015/</link>
+      <pubDate>Wed, 28 Oct 2015 15:38:53 +0100</pubDate>
+      
+      <guid>http://4gkitiot.github.io/post/News_10_28_2015/</guid>
+      <description>&lt;p&gt;Hello dear partners.&lt;/p&gt;
+
+&lt;p&gt;Here are the last updates about the experimentation :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;You can now see the approximative localization of your kit into the Device info when you click onto a specific kit.
+Be careful, it shows the localization of the base station currently connected with your kit, so it&amp;rsquo;s not as accurate as GPS.
+This information is based on &lt;a href=&#34;http://opencellid.org/&#34;&gt;opencellid.org&lt;/a&gt;. The code we have added only shows your 4G kit location if its associated base station can be found in the opencellid database.
+You can find a &lt;a href=&#34;https://github.com/4GkitIoT/Summer-2015-kits&#34;&gt;new version of the 4G kit code on github&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Big thanks to Alexandre from &lt;a href=&#34;http://www.fablab-lyon.fr/&#34;&gt;La Fabrique d&amp;rsquo;Objets Libres&lt;/a&gt; (Lyon&amp;rsquo;s FabLab) for his &lt;a href=&#34;http://anderson69s.com/2015/10/21/4g-kit-by-orange/&#34;&gt;article&lt;/a&gt; and &lt;a href=&#34;https://www.thingiverse.com/thing:1093431&#34;&gt;great 3D casing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We have shared various &lt;a href=&#34;http://www.thingiverse.com/pierturk/collections/4gkitiot&#34;&gt;3D models&lt;/a&gt; (including Alexandre&amp;rsquo;s) on Thingiverse&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We have completed the First Setup page with &lt;a href=&#34;https://github.com/OLIMEX/SOM/tree/master/A13/A13-SOM-LTE&#34;&gt;Olimex daughter board schematics&lt;/a&gt; and a &lt;a href=&#34;https://4gkit.orange.com/help/Q&amp;amp;A/&#34;&gt;Q&amp;amp;A section&lt;/a&gt; to share your first concerns&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We are working hard to provide you in the coming weeks with a default VPN connection, cloud APIs and some scripts/tutorials to help you develop your objects faster. If you have any questions, contact us !&lt;/p&gt;
+
+&lt;p&gt;Have an excellent day!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The 4G Kit team&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcom on board!</title>
+      <link>http://4gkitiot.github.io/post/first/</link>
+      <pubDate>Fri, 01 May 2015 13:17:55 +0100</pubDate>
+      
+      <guid>http://4gkitiot.github.io/post/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-on-board:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Welcome on board !&lt;/h1&gt;
+
+&lt;p&gt;Thank you for joining our 4G kit community.&lt;/p&gt;
+
+&lt;p&gt;Initiated by Orange and Alcatel-Lucent, this initiative aims at making 4G accessible for connected objects, and connects at the present time over a hundred contributors.&lt;/p&gt;
+
+&lt;p&gt;The 4G kit project is an Open Initiative, make it yours by using the kit and providing feedback. If you need help or support, we are right here with you! If you have any thoughts or questions you want to share about this project, feel free to use the forum.&lt;/p&gt;
+
+&lt;p&gt;We have also set up a space on Github for you to get the code we share, or to contribute yours.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/4GkitIoT/Summer-2015-kits&#34;&gt;4G Kit for IoT Github&lt;/a&gt;
+&lt;a href=&#34;https://www.olimex.com/forum/index.php?board=2.0&#34;&gt;4G Kit for IoT Forum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On the Olimex forum when you post a new subject, please start the title with [4GKitforIoT] so everybody will be able to find easily the topics related to this experimentation.&lt;/p&gt;
+
+&lt;p&gt;You can find the start tutorial with all the technical details of the 4G Kit here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://4gkit.orange.com/help/warnings/&#34;&gt;Warnings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://4gkit.orange.com/help&#34;&gt;First setup tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are using an Olimex board in open hardware. If you need to order materials you can use their trustworthy marketplace: &lt;a href=&#34;https://www.olimex.com/&#34;&gt;https://www.olimex.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, you can find our leads in &amp;ldquo;contact&amp;rdquo; section:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://4gkit.orange.com/help/contact/&#34;&gt;Contact us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Have an excellent experimentation with the 4G Kit !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The 4G Kit team&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
