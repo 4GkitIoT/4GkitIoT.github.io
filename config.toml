@@ -1,0 +1,5 @@
+baseurl = "http://4GkitIoT.github.io/"
+languageCode = "en-us"
+title = "4G kit blog"
+theme = "detox"
+DisableRSS = false
